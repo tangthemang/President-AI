@@ -6,6 +6,7 @@ import java.awt.event.*;
 
 import java.net.URL;
 
+//RUNS THE CARD GAME PRESIDENT
 public class PresidentGUI {
 
 	public static void main(String[] args) {
